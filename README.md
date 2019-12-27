@@ -1,19 +1,19 @@
 # Practicing Git
 
-# ./getTPandNtp_All_Link.py ==> §Q¥Îselenium ±N©Ò¦³­¶­±ªºsource code§ì¤U¨Ó¦AÂ^¨úID
-#
-# ./crawler591.py           ==> §Q¥ÎgetTPandNtp_All_Link.py Â^¨ú¥X¨ÓªºID¡A§ä¥X¤U¦C¸ê°T«á¨Ã¦s¦¨JSON®æ¦¡
+### ./getTPandNtp_All_Link.py ==> åˆ©ç”¨selenium å°‡æ‰€æœ‰é é¢çš„source codeæŠ“ä¸‹ä¾†å†æ“·å–ID
+###
+### ./crawler591.py           ==> åˆ©ç”¨getTPandNtp_All_Link.py æ“·å–å‡ºä¾†çš„IDï¼Œæ‰¾å‡ºä¸‹åˆ—è³‡è¨Šå¾Œä¸¦å­˜æˆJSONæ ¼å¼
 
-##  -¥X¯²ªÌ(³¯¥ý¥Í)
-##  -¥X¯²ªÌ¨­¥÷
-##  -Ápµ¸¹q¸Ü
-##  -«¬ºA
-##  -²{ªp
-##  -©Ê§O­n¨D
+####  -å‡ºç§Ÿè€…(é™³å…ˆç”Ÿ)
+####  -å‡ºç§Ÿè€…èº«ä»½
+####  -è¯çµ¡é›»è©±
+####  -åž‹æ…‹
+#### -ç¾æ³
+####  -æ€§åˆ¥è¦æ±‚
 #
 
-# ./insertToDB.py            ==> ±N¸ê®Æ¥á¶i DB¤¤
-# ./GetDatas.py              ==> ·j´M¯S©w±ø¥óªº¸ê®Æ«á¡A¦s¦¨json
-# ./API/app_ShowQuery.py     ==> «Ø¥ßserver¨Ã±NJson¸ê®Æ¤W©ß¦Ü127.0.0.1/5000 ªº¦U­Ó¸`ÂI
-# ./API/index.html           ==> ³o­Óºô­¶¤è«K¶i¤J¦U­Ó¸`ÂIÆ[¬Ý¸ê®Æ
-# ./DB591                    ==> ¾ãÅé¸ê®Æ®wjaonÀÉ
+### ./insertToDB.py            ==> å°‡è³‡æ–™ä¸Ÿé€² DBä¸­
+### ./GetDatas.py              ==> æœå°‹ç‰¹å®šæ¢ä»¶çš„è³‡æ–™å¾Œï¼Œå­˜æˆjson
+### ./API/app_ShowQuery.py     ==> å»ºç«‹serverä¸¦å°‡Jsonè³‡æ–™ä¸Šæ‹‹è‡³127.0.0.1/5000 çš„å„å€‹ç¯€é»ž
+### ./API/index.html           ==> é€™å€‹ç¶²é æ–¹ä¾¿é€²å…¥å„å€‹ç¯€é»žè§€çœ‹è³‡æ–™
+### ./DB591                    ==> æ•´é«”è³‡æ–™åº«jaonæª”
